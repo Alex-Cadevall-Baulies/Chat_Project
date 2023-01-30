@@ -1,8 +1,8 @@
-## Per executar:
-- Obre terminal i executa el command [`npm install`]
-- S'ha de fer [`npm install`] també dins la carpeta client i la carpeta server
-- Dins la carpeta server crea un document `.env` amb els elements definits al document `.env-teamplate`.
-- Per iniciar el servidor executa el backend i front end 
-    - Backend: dintre la carpeta server: [`node server.js`]
-    - Frontend: dintre la carpeta client: [`npm run dev`]
+## Instalation:
+- Obre terminal and execute command [`npm install`]
+- You also need to [`npm install`] inside server and client folders
+- Inside server create a `.env` with elements defined on the `.env-teamplate` file.
+- Execute end and front:
+    - Backend: inside server folder: [`node server.js`]
+    - Frontend: inside client folder: [`npm run dev`]
 
